@@ -1,3 +1,0 @@
-[submodule "hl_crown_classifier"]
-	path = hl_crown_classifier
-	url = https://huggingface.co/spaces/santiagobecerrac/hl_crown_classifier
