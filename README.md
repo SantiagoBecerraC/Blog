@@ -8,3 +8,4 @@ This repo documents my Deep Learning journey! The [fastai](https://github.com/sa
 ## Projects
 
 - First project is a [Hairline/Crown Classifier](https://huggingface.co/spaces/santiagobecerrac/hl_crown_classifier) using Hugging Face Spaces.
+- [Image Grid](https://github.com/santiagobecerrac/Blog//tree/main/projects/image_grid) was a fun little exercise to work with image files in Python.
